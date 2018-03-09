@@ -1,0 +1,1 @@
+prompt("¿Cúal es tu nombre intrépido aventurero?")
