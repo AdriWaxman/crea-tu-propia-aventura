@@ -1,1 +1,1 @@
-prompt("¿Cúal es tu nombre intrépido aventurero?")
+//var sign = window.prompt('');¿Cúal es tu nombre intrépido aventurero?
